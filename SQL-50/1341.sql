@@ -14,3 +14,4 @@ WHERE (
 ) 
 ORDER BY name ASC
 LIMIT 1
+-- sql-50
